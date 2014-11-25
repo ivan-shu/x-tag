@@ -1,0 +1,23 @@
+{
+    "name": "ivan-shu/x-tag",
+    "description": "photo tagging",
+    "keywords": ["yii2", "extension", "widget", "photo", "tag", "image"],
+    "homepage": "https://github.com/ivan-shu/x-tag",
+    "type": "yii2-extension",
+    "license": "BSD 3-Clause",
+    "authors": [
+        {
+            "name": "Ivan Shu",
+            "email": "shupeng@126.com",
+            "homepage": ""
+        }
+    ],
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "xtag\\view\\": ""
+        }
+    }
+}
+
